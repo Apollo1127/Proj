@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"[Name]","nickname":"","note":"Main character","profile":"Who am I?"},
+{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"[Name]","nickname":"l","note":"Main character","profile":"Who am I?"},
 {"id":2,"battlerName":"Imp","characterIndex":4,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Imp Familiar","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
